@@ -3,7 +3,7 @@
 
 ##  نامه‌ایی سر گشاده به مراجع تقلید
 
-##  درخواست اجماع در بابِ اعتبار و یا بطالت آنچه که غربیها نامیده‌اند مالکیت فکری و معنوینامیده‌اند مالکیت فکری و معنوی
+##  درخواست اجماع در بابِ اعتبار و یا بطالت آنچه که غربیها نامیده‌اند مالکیت فکری و معنوی
 
 <br/>
 <p align="center"><b>PLPC-120076</b></p>
@@ -20,7 +20,7 @@
 </tr>
 <tr class="odd">
 <td>Publication Date:</td>
-<td>June 23, 2023</td>
+<td>July 5, 2023</td>
 </tr>
 <tr class="odd">
 <td>Primary URL:</td>
@@ -44,7 +44,7 @@
 </tr>
 <tr class="even">
 <td>AccessPage Revision:</td>
-<td>This AccessPage was produced on June 23, 2023 at 18:36 PDT (-0700)</td>
+<td>This AccessPage was produced on July 5, 2023 at 18:36 PDT (-0700)</td>
 </tr>
 </tbody>
 </table>
