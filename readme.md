@@ -37,7 +37,7 @@
 </tr>
 <tr class="odd">
 <td>See Also:</td>
-<td><a href="https://github.com/bxplpc/120074">International Edition</a> ()
+<td><a href="https://github.com/bxplpc/120074">International Edition</a>
 -- <a href="https://github.com/bxplpc/120033">US Edition</a>
 -- <a href="https://github.com/bxplpc/120075">خلاصه به فارسی</a>
 </td>
