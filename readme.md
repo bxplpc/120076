@@ -65,9 +65,9 @@ AVAILABLE FORMATS
 -   [PDF](./pdf/c-120076-0_1-marjaMailingFa-art-a4.pdf):
     -- A4 --   درخواست اجماع در بابِ اعتبار و یا بطالت مالکیت فکری 
 
--   [PDF](./pdf/c-120076-0_1-marjaMailingEa-art-8.5x11.pdf):
+-   [PDF](./pdf/c-120076-0_1-marjaMailingEn-art-8.5x11.pdf):
     -- 8.5x11 -- Request for Unanimity With Regard to Validity of Invalidity of Intellectual Property
--   [PDF](./pdf/c-120076-0_1-marjaMailingEa-art-a4.pdf):
+-   [PDF](./pdf/c-120076-0_1-marjaMailingEn-art-a4.pdf):
     -- A4 -- Request for Unanimity With Regard to Validity of Invalidity of Intellectual Property
 
 
