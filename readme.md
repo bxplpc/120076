@@ -5,6 +5,11 @@
 
 ##  درخواست اجماع در بابِ اعتبار و یا بطالت آنچه که غربیها نامیده‌اند مالکیت فکری و معنوی
 
+## Open Letter to Maraje «مراجع تقلید» (Shia Sources of Emulation)
+
+## Request for Unanimity «اجماع» With Regard to Validity of Invalidity of That Which Westerners Call Intellectual Property
+
+
 <br/>
 <p align="center"><b>PLPC-120076</b></p>
 
@@ -32,7 +37,10 @@
 </tr>
 <tr class="odd">
 <td>See Also:</td>
-<td><a href="https://github.com/bxplpc/120074">PLPC-120074</a> (International Edition) -- <a href="https://github.com/bxplpc/120033">PLPC-120033</a> (US Edition) </td>
+<td><a href="https://github.com/bxplpc/120074">International Edition</a> ()
+-- <a href="https://github.com/bxplpc/120033">US Edition</a>
+-- <a href="https://github.com/bxplpc/120075">خلاصه به فارسی</a>
+</td>
 </tr>
 <tr class="odd">
 <td>Author(s):</td>
@@ -57,10 +65,15 @@ AVAILABLE FORMATS
 -   [PDF](./pdf/c-120076-0_1-marjaMailingFa-art-a4.pdf):
     -- A4 --   درخواست اجماع در بابِ اعتبار و یا بطالت مالکیت فکری 
 
+-   [PDF](./pdf/c-120076-0_1-marjaMailingEa-art-8.5x11.pdf):
+    -- 8.5x11 -- Request for Unanimity With Regard to Validity of Invalidity of Intellectual Property
+-   [PDF](./pdf/c-120076-0_1-marjaMailingEa-art-a4.pdf):
+    -- A4 -- Request for Unanimity With Regard to Validity of Invalidity of Intellectual Property
+
 
 
 SHORT DESCRIPTION
 
-Open Letter to Maraje Regarding Invalidity of Western IPR
+Open Letter to Maraje Regarding Invalidity of Western IPR, in Farsi and in Globish.
 
 
